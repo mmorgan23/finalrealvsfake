@@ -1,0 +1,57 @@
+body{
+	background-image: url("breakingnews.jpeg");
+}
+
+#container{
+	width: 800px;
+	height: 1000px;
+	background-color: #E5E4E2;
+	opacity: 0.9;
+	margin: 0 auto;
+}
+
+#header {
+	width: 800px;
+	height: 280px;
+/*	background-image: url("breakingnews.jpeg");
+*/	padding-top: 20px;
+
+
+}
+
+#footer {
+	padding: 30px;
+	margin-top: 50px;
+
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h1 {
+	font-family: 'Exo', sans-serif;
+	padding-top: 20px;
+	color: #000080;
+
+}
+
+#timeTitle {
+	width: 800px;
+	height: 35px;
+	color: white;
+	background-color: #000080;
+}
+
+/*h4 {
+	padding: 10px;
+}*/
+
+.col-md-6 {
+	padding-left: 20px;
+}
+
+.col-md-5 {
+	padding-left: 20px;
+}

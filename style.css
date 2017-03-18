@@ -1,0 +1,114 @@
+body{
+	background-image: url("breakingnews.jpeg");
+}
+
+#container{
+	width: 800px;
+	height: 1100px;
+	background-color: #E5E4E2;
+	opacity: 0.9;
+	margin: 0 auto;
+}
+
+#header {
+	width: 800px;
+	height: 280px;
+/*	background-image: url("breakingnews.jpeg");
+*/	padding-top: 20px;
+
+
+}
+
+#footer {
+	padding: 30px;
+	margin-top: 40px;
+
+}
+
+#ron {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#quiz {
+	background: #000080;
+	width: 350px;
+	height: 300px;
+}
+
+/*img {
+    max-width: 100%;
+    max-height: 100%;
+}*/
+
+h1 {
+	font-family: 'Exo', sans-serif;
+	padding-top: 25px;
+	color: #000080;
+
+}
+
+h3 {
+	padding-top: 3px;
+}
+
+#timeTitle {
+	width: 800px;
+	height: 38px;
+	color: white;
+	background-color: #000080;
+}
+
+
+.col-md-6 {
+	padding-left: 25px;
+}
+
+.col-md-5 {
+	padding-left: 25px;
+}
+
+hr {
+	color: black;
+	background-color: black;
+}
+
+#OpenDialog {
+	color: red;
+}
+
+#quizoutput {
+	color: white;
+}
+
+#rightguess {
+	color: white;
+}
+
+#wrongguess {
+	color: white;
+}
+
+#quizquestions {
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+#fb{
+width: 120px;
+}
+
+#fakenews {
+	width: 150px;
+	height: 80px;
+}
+
+h4 {
+	color: 6F2828;
+}
+
+#fake_button {
+    margin-left: 10px;
+}
